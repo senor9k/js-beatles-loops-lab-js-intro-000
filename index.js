@@ -14,7 +14,8 @@ return array
 function johnLennonFacts(facts){
   let array = []
   while (i > facts.length){
-  let sentence = facts[i] + "!!!"
-  array = [...array, sentence]
+    let sentence = facts[i] + "!!!"
+    array = [...array, sentence]
   }
+  return array
 }
