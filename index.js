@@ -21,3 +21,16 @@ function johnLennonFacts(facts){
   }
   return array
 }
+
+function iLoveTheBeatles(number){
+  let array = []
+do {
+  array = [...array, "I love the Beatles!"]
+  number+number+
+}  while (i < facts.length){
+    let sentence = facts[i] + "!!!"
+    array = [...array, sentence]
+    i++
+  }
+  return array
+}
