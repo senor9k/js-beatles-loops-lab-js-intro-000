@@ -9,3 +9,12 @@ function theBeatlesPlay(musicians, instruments) {
   }
 return array
 }
+
+
+function johnLennonFacts(facts){
+  let array = []
+  while (){
+  let sentence = facts[i] + "!!!"
+  array = [...array, sentence]
+  }
+}
