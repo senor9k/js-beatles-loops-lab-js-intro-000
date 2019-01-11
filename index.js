@@ -27,10 +27,6 @@ function iLoveTheBeatles(number){
 do {
   array = [...array, "I love the Beatles!"]
   number+number+
-}  while (i < facts.length){
-    let sentence = facts[i] + "!!!"
-    array = [...array, sentence]
-    i++
-  }
+}  while (number < 15 }
   return array
 }
