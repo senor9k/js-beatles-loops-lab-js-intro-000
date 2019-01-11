@@ -7,5 +7,5 @@ function theBeatlesPlay(musicians, instruments) {
     let sentence = musicians[i] + " plays " + instruments[i]
     array = [...array, sentence]
   }
-return [1,2,3,4]
+return array[]
 }
